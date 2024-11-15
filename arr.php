@@ -81,5 +81,9 @@ $new_array = array_filter($numbers, function($value) {
 
 print_r($new_array);
 echo "test2";
+<<<<<<< HEAD
 echo "quick check";
+=======
+echo "main branch changes";
+>>>>>>> main
 ?>
