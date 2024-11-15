@@ -80,5 +80,5 @@ $new_array = array_filter($numbers, function($value) {
 });
 
 print_r($new_array);
-echo "test";
+echo "test1";
 ?>
